@@ -1,1 +1,2 @@
-This marks the beginning of a new learning journey
+This marks the beginning of a new learning journey.
+Wow, awesome.
